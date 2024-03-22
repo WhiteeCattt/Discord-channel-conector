@@ -11,5 +11,4 @@
 7. Copy the ID of the channel in the first server
 8. Paste it into `config.json`.
 9. Repeat steps 5-8 with the second server 
-10. Enable the bot with `node bot.js`
-11. Enjoy!
+10. Enjoy!
