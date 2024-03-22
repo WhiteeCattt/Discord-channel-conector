@@ -1,0 +1,13 @@
+{
+    "token": "", // Discord bot token
+    "servers": [
+        {
+            "server_id": "", // Server ID
+            "channel_id": "" // Channel ID
+        },
+        {
+            "server_id": "", // Server ID
+            "channel_id": "" // Channel ID
+        }
+    ]
+}
